@@ -1,12 +1,17 @@
-## Hi there 👋
+# 프로젝트 기획
+연인, 가족과 함께 편하게 확인하는 나만의 생리 달력
 
-<!--
+## 개발기간
+2024.09.01 ~ 2024.10.20(목표)(~Ing)
 
-**Here are some ideas to get you started:**
+## Introduce
+- 연인 및 가족을 추가하여 같이 확인하는 생리 달력
+- 예상 생리 주기 및 지난 생리일 통계 기록 확인 기능
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## 주요 기능
+- 카카오톡 로그인
+- 연인 및 가족 추가하기 기능
+- 생리 주기 확인 달력
+- 생리 예상 일시 확인 기능
+- 생리 통계 주기 확인 기능
+- 알람기능
